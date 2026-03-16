@@ -19,7 +19,7 @@
 
 ## 📫 Contact Me
 - Email: seyam.islam020@gmail.com
-- Linkedin: www.linkedin.com/in/siyam-islam-17443437b
+
 
 ## ⚡ Fun Fact
 I love sleeping and eating unhealthy food.
