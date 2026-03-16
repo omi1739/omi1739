@@ -1,16 +1,25 @@
-## Hi there 👋
+## Assalamualaikum....
 
-<!--
-**omi1739/omi1739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Omi
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 CSE Student
+- 💻 Learning Web Development
+- 🌱 Currently learning React & Node js
+- 🚀 Want to become a full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C
+- C++
+- Java
+- JavaScript
+- HTML & CSS
+- React (Learning)
+- Node js (Learning)
+
+## 📫 Contact Me
+- Email: seyam.islam020@gmail.com
+- Linkedin: www.linkedin.com/in/siyam-islam-17443437b
+
+## ⚡ Fun Fact
+I love sleeping and eating unhealthy food.
