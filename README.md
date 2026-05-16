@@ -74,7 +74,7 @@ I'm a passionate full-stack developer with a strong focus on building scalable w
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
-| **Qurbani Haat** | E-commerce platform for Eid ul Adha featuring product listings, cart management, and secure checkout | Next.js, MongoDB, Tailwind CSS | [🔗 Live](https://qurbani-haat.vercel.app) • [💻 Repo](https://github.com/omi1739/Qurbani_Haat) |
+| **Qurbani Haat** | E-commerce platform for Eid ul Adha featuring product listings, cart management, and secure checkout | Next.js, MongoDB, Tailwind CSS | [🔗 Live]([https://qurbani-haat.vercel.app](https://qurbani-haat-ph.vercel.app/)) • [💻 Repo](https://github.com/omi1739/Qurbani_Haat) |
 
 
 
