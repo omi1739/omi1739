@@ -31,45 +31,38 @@ I'm a passionate full-stack developer with a strong focus on building scalable w
 ## 🔧 Tech Stack
 
 ### **Languages**
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frontend Development**
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### **Databases & Storage**
-<div>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms**
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
 
 ---
 
@@ -87,27 +80,30 @@ I'm a passionate full-stack developer with a strong focus on building scalable w
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Qurbani Haat** | E-commerce platform for Eid ul Adha | Next.js, MongoDB, Tailwind CSS |
-| **Tourism Website** | Complete travel booking platform | React, Node.js, PostgreSQL |
-| **Portfolio** | Personal showcase & blog | Next.js, Vercel |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **Qurbani Haat** | E-commerce platform for Eid ul Adha featuring product listings, cart management, and secure checkout | Next.js, MongoDB, Tailwind CSS | [🔗 Live](https://qurbani-haat.vercel.app) • [💻 Repo](https://github.com/omi1739/Qurbani_Haat) |
+| **Wanderlust** | Complete travel booking platform with destination search, itinerary planning, and user reviews | React, Node.js, PostgreSQL | [🔗 Live](https://wanderlust-travel.vercel.app) • [💻 Repo](https://github.com/omi1739/wanderlust) |
+| **Book Vibe** | Social book review platform where users can discover, rate, and discuss their favorite books | React, Express, MongoDB | [🔗 Live](https://book-vibe.vercel.app) • [💻 Repo](https://github.com/omi1739/Book-Vibe) |
+| **Payoo Mobile Banking** | Digital payment and money transfer application with secure authentication and transaction history | React, JavaScript, Tailwind CSS | [🔗 Live](https://payoo-banking.vercel.app) • [💻 Repo](https://github.com/omi1739/Payoo-Mobile-Banking-App) |
 
 ---
 
 ## 💡 What I'm Currently Working On
 
 - 🔨 Building scalable REST APIs with **Express.js**
-- 🎯 Mastering **Next.js** advanced patterns
-- 📈 Exploring **DevOps** fundamentals
+- 🎯 Mastering **Next.js** advanced patterns and server components
+- 📈 Exploring **DevOps** fundamentals and CI/CD pipelines
 - 🌐 Contributing to open-source projects
 - 📖 Writing technical blog posts & documentation
+- 🚀 Learning mobile development with **Dart & Flutter**
+- 🔧 Deepening knowledge in **Go** for backend services
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always interested in collaborating on exciting projects, discussing tech, or just having a great conversation about development. Feel free to reach out!
+I'm always interested in collaborating on exciting projects, discussing tech, or having great conversations about development. Feel free to reach out!
 
 <div align="center">
 
