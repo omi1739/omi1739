@@ -20,11 +20,11 @@
 I'm a passionate full-stack developer with a strong focus on building scalable web applications that solve real-world problems. I love exploring modern technologies and sharing knowledge with the community. With hands-on experience in both frontend and backend development, I'm committed to writing clean, efficient, and maintainable code.
 
 **Current Focus:**
-- 🚀 Building production-ready applications with **Next.js** and **Node.js**
-- 🎨 Creating responsive UI/UX with **React** and **Tailwind CSS**
-- 💾 Designing scalable databases and **APIs**
-- 📚 Learning **DevOps** and **Cloud Technologies**
-- 🤝 Open to collaborations on impactful projects
+-  Building production-ready applications with **Next.js** and **Node.js**
+-  Creating responsive UI/UX with **React** and **Tailwind CSS**
+-  Designing scalable databases and **APIs**
+-  Learning **DevOps** and **Cloud Technologies**
+-  Open to collaborations on impactful projects
 
 ---
 
@@ -66,40 +66,19 @@ I'm a passionate full-stack developer with a strong focus on building scalable w
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omi1739&show_icons=true&theme=nord&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omi1739&layout=compact&theme=nord&hide_border=true)
-
-</div>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
 | **Qurbani Haat** | E-commerce platform for Eid ul Adha featuring product listings, cart management, and secure checkout | Next.js, MongoDB, Tailwind CSS | [🔗 Live](https://qurbani-haat.vercel.app) • [💻 Repo](https://github.com/omi1739/Qurbani_Haat) |
-| **Wanderlust** | Complete travel booking platform with destination search, itinerary planning, and user reviews | React, Node.js, PostgreSQL | [🔗 Live](https://wanderlust-travel.vercel.app) • [💻 Repo](https://github.com/omi1739/wanderlust) |
-| **Book Vibe** | Social book review platform where users can discover, rate, and discuss their favorite books | React, Express, MongoDB | [🔗 Live](https://book-vibe.vercel.app) • [💻 Repo](https://github.com/omi1739/Book-Vibe) |
-| **Payoo Mobile Banking** | Digital payment and money transfer application with secure authentication and transaction history | React, JavaScript, Tailwind CSS | [🔗 Live](https://payoo-banking.vercel.app) • [💻 Repo](https://github.com/omi1739/Payoo-Mobile-Banking-App) |
 
----
 
-## 💡 What I'm Currently Working On
 
-- 🔨 Building scalable REST APIs with **Express.js**
-- 🎯 Mastering **Next.js** advanced patterns and server components
-- 📈 Exploring **DevOps** fundamentals and CI/CD pipelines
-- 🌐 Contributing to open-source projects
-- 📖 Writing technical blog posts & documentation
-- 🚀 Learning mobile development with **Dart & Flutter**
-- 🔧 Deepening knowledge in **Go** for backend services
 
----
 
 ## 🤝 Let's Connect!
 
@@ -111,7 +90,7 @@ I'm always interested in collaborating on exciting projects, discussing tech, or
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyam.islam020@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siyam-omi.vercel.app)
 
-### *"Code is poetry. Let's create something beautiful together!"* 💻✨
+### *"Code is poetry. Let's create something beautiful together!"* 
 
 </div>
 
