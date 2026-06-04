@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  [![Visit Count](https://visitcount.itsvg.in/api?id=omi1739&icon=6&color=1)](https://visitcount.itsvg.in/api?id=omi1739&icon=6&color=1)
+
   
 </div>
 
@@ -85,33 +85,14 @@ With expertise in **MERN Stack** and modern development practices, I create resp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
----
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omi1739&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omi1739&show_icons=true&theme=dark&hide_border=true&count_private=true)
-  
-</div>
-
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omi1739&layout=compact&theme=dark&hide_border=true)
-  
-</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 1. 🏥 Doctor Appointment System
+### 1.  Doctor Appointment System
 A modern web application for booking and managing doctor appointments with an intuitive interface and seamless user experience.
 
 **Live:** https://doc-appoinment-coral.vercel.app/
@@ -158,7 +139,7 @@ npm run dev
 
 ---
 
-### 2. 🐑 Qurbani Haat
+### 2.  Qurbani Haat
 An e-commerce platform for browsing and booking sacrificial animals with a seamless checkout experience and user management system.
 
 **Live:** https://qurbani-haat-ph.vercel.app
@@ -203,7 +184,7 @@ npm run dev
 
 ---
 
-### 3. 📚 English Janala
+### 3.  English Janala
 An interactive English vocabulary learning platform with API integration for dynamic content and engaging word learning experience.
 
 **Tech Stack:**
@@ -264,7 +245,7 @@ I'm always interested in collaborating on exciting projects, discussing new tech
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/siyam-islam-omi/)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seyam.islam020@gmail.com)
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://siyam-omi.vercel.app)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com)
+
 
 ### "Code is poetry. Let's create something beautiful together!" ✨
 
