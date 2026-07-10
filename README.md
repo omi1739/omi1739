@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Enthusiast;Let's+Build+Something+Amazing" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;Tech+Enthusiast" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** with a strong focus on building scalable, user-friendly web applications that solve real-world problems. I love exploring modern technologies, collaborating with talented developers, and continuously learning new skills.
+I'm a passionate **Full Stack Developer** with a strong focus on building scalable, user-friendly web applications that solve real-world problems. I love exploring modern technologies, collaborating with like-minded developers, and continuously improving my craft.
 
 With expertise in **MERN Stack** and modern development practices, I create responsive, performant applications that provide excellent user experiences.
 
@@ -39,6 +39,30 @@ With expertise in **MERN Stack** and modern development practices, I create resp
 - Designing scalable databases and APIs
 - Learning DevOps and Docker containerization
 - Open to collaborations on meaningful projects
+
+---
+
+## 📊 Most Used Language
+
+<div align="center">
+  
+### 🔝 My Primary Language: **JavaScript**
+
+I primarily work with **JavaScript** across 16+ repositories, using it for:
+- React and Next.js frontend development
+- Node.js backend services
+- Full-stack MERN applications
+- Web automation and scripting
+
+**Language Distribution:**
+- 🥇 **JavaScript** - 16 projects (Most Used)
+- 🥈 **HTML** - 11 projects
+- 🥉 **Java** - 5 projects
+- **TypeScript** - 1 project
+- **PHP** - 1 project
+- **Python** - 1 project
+
+</div>
 
 ---
 
@@ -256,6 +280,6 @@ I'm always interested in collaborating on exciting projects, discussing new tech
   
   ![Profile Views](https://komarev.com/ghpvc/?username=omi1739&color=blueviolet&style=flat-square)
   
-  <i>Last Updated: June 2026</i>
+  <i>Last Updated: July 2026</i>
   
 </div>
