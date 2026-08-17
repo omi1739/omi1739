@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 📍 **Banasree, Dhaka** | 📧 **seyam.islam020@gmail.com**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seyam.islam020@gmail)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seyam.islam020@gmail.com)
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://siyam-omi.vercel.app)
 
 
@@ -127,7 +127,7 @@ I'm open to collaborations and conversations about tech. Feel free to reach out 
 ---
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=omi1739&color=blueviolet&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=omi1739&color=blueviolet&style=flat-square" alt="Profile Views" />
   
   <i>Last Updated: August 17, 2026</i>
   
