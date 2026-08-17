@@ -18,7 +18,7 @@
 📍 **Banasree, Dhaka** | 📧 **seyam.islam020@gmail.com**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seyam.islam020@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seyam.islam020@gmail)
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://siyam-omi.vercel.app)
 
 
@@ -129,6 +129,6 @@ I'm open to collaborations and conversations about tech. Feel free to reach out 
 <div align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=omi1739&color=blueviolet&style=flat-square)
   
-  <i>Last Updated: August 2026</i>
+  <i>Last Updated: August 17, 2026</i>
   
 </div>
