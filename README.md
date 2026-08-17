@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+CSE+Student;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast" />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 ## 💫 About Me
 
-I'm a passionate Full Stack Developer who enjoys building scalable, user-friendly web applications. I primarily work with the MERN stack and modern web technologies to deliver clean and maintainable solutions.
+I'm a passionate Full Stack Developer who enjoys building scalable, user-friendly web applications. I primarily work with the MERN stack and modern web technologies to deliver clean and maintainable code.
 
 **What I'm currently doing:**
 - Building production-ready applications with Next.js and Node.js
@@ -54,10 +54,13 @@ I work mainly with JavaScript across my repositories for frontend and backend de
 
 ### Languages & Core
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </div>
 
 ### Frontend
@@ -69,8 +72,10 @@ I work mainly with JavaScript across my repositories for frontend and backend de
 
 ### Backend & Database
 <div>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
