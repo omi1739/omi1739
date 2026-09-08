@@ -76,8 +76,11 @@ I work mainly with JavaScript across my repositories for frontend and backend de
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [doc_appointment](https://github.com/omi1739/doc_appoinment) | Doctor booking system | React, Node.js, MongoDB |
-| [Qurbani_Haat](https://github.com/omi1739/Qurbani_Haat) | E-commerce platform | MERN Stack |
+| [Skillbridge](https://github.com/omi1739/skillbridge) | Learning management platform connecting students with mentors | MERN Stack |
+| [UIU CGPA Calculator](https://github.com/omi1739/uiu-cgpa-calculator) | Calculate and track CGPA for UIU students | React, Node.js |
+| [Legal Ease](https://github.com/omi1739/legal-ease) | Legal consultation booking platform | MERN Stack |
+| [Doc Appointment](https://github.com/omi1739/doc_appoinment) | Doctor booking and consultation system | React, Node.js, MongoDB |
+| [Qurbani_Haat](https://github.com/omi1739/Qurbani_Haat) | E-commerce platform for sacrificial animals | MERN Stack |
 | [English-Janala](https://github.com/omi1739/English-Janala) | Language learning tool | Next.js, TypeScript |
 
 ---
