@@ -29,6 +29,7 @@ Right now I'm trying to get better at software engineering fundamentals instead 
 **What I'm doing right now:**
 - Working with Next.js and trying to understand when to use server components vs client components
 - Building APIs with Node.js and NestJS (NestJS is growing on me)
+- Getting into Spring Boot – learning how to build robust Java backends
 - Messing around with TypeScript to catch bugs before they become problems
 - Reading about design patterns and system architecture
 - Figuring out how to deploy things properly with Docker
@@ -60,6 +61,7 @@ Right now I'm trying to get better at software engineering fundamentals instead 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
@@ -67,7 +69,7 @@ Right now I'm trying to get better at software engineering fundamentals instead 
 
 ### Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
@@ -89,6 +91,7 @@ Right now I'm trying to get better at software engineering fundamentals instead 
 ## Currently Learning
 
 - How to actually design software instead of just coding
+- Spring Boot for building enterprise-level Java backends
 - NestJS for building better backends
 - Figuring out where TypeScript really helps (spoiler: more places than I thought)
 - DevOps and deployment strategies
