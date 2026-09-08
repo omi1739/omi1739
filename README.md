@@ -41,39 +41,39 @@ Right now I'm trying to get better at software engineering fundamentals instead 
 
 ### What I code in
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
 </div>
 
 ### Frontend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
 </div>
 
 ### Backend & Databases
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
 </div>
 
 ### Tools & Design
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-plain.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-plain.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
 </div>
 
 ---
