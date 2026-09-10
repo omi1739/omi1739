@@ -47,6 +47,7 @@ Right now I'm trying to get better at software engineering fundamentals instead 
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="php" width="50" height="50"/>
 </div>
 
 ### Frontend
