@@ -12,9 +12,9 @@
 
 📍 **Banasree, Dhaka** | 📧 **seyam.islam020@gmail.com**
 
-[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="45" height="45" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://cdn-icons-png.flaticon.com/128/731/731185.png" alt="Gmail" width="45" height="45" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://cdn-icons-png.flaticon.com/128/2995/2995478.png" alt="Portfolio" width="45" height="45" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-github.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="Gmail" width="45" height="45" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/laptop.svg" alt="Portfolio" width="45" height="45" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
 
 </div>
 
@@ -107,9 +107,9 @@ If you want to chat about code, share ideas, or just want to talk tech – hit m
 
 <div align="center">
 
-[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="45" height="45" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://cdn-icons-png.flaticon.com/128/731/731185.png" alt="Gmail" width="45" height="45" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://cdn-icons-png.flaticon.com/128/2995/2995478.png" alt="Portfolio" width="45" height="45" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-github.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="Gmail" width="45" height="45" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/laptop.svg" alt="Portfolio" width="45" height="45" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
 
 </div>
 
