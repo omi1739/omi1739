@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hey+there!;Full+Stack+Developer;Exploring+Software+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hey+there!;Full+Stack+Developer;Exploring+Software+Engineering;" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,9 +12,9 @@
 
 📍 **Banasree, Dhaka** | 📧 **seyam.islam020@gmail.com**
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://siyam-omi.vercel.app)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/siyam-islam-omi/)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />](mailto:seyam.islam020@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />](https://siyam-omi.vercel.app)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I code stuff. I started with the MERN stack and haven't stopped since. I like building things that actually work and that people can use without getting frustrated. Backend, frontend, whatever needs to be done – I'm interested in understanding how it all fits together.
+I code stuff. I started with the MERN stack and haven't stopped since. I like building things that actually work and that people can use without getting frustrated. Backend, frontend, whatever needs doing.
 
 Right now I'm trying to get better at software engineering fundamentals instead of just shipping features. I've realized that's where the real learning happens.
 
@@ -107,9 +107,9 @@ If you want to chat about code, share ideas, or just want to talk tech – hit m
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://siyam-omi.vercel.app)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/siyam-islam-omi/)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />](mailto:seyam.islam020@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />](https://siyam-omi.vercel.app)
 
 </div>
 
@@ -118,6 +118,6 @@ If you want to chat about code, share ideas, or just want to talk tech – hit m
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omi1739&color=blueviolet&style=flat-square" alt="Profile Views" />
   
-  <i>Last Updated: September 8, 2026</i>
+  <i>Last Updated: September 13, 2026</i>
   
 </div>
