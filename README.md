@@ -12,9 +12,9 @@
 
 📍 **Banasree, Dhaka** | 📧 **seyam.islam020@gmail.com**
 
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-github.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="Gmail" width="45" height="45" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/laptop.svg" alt="Portfolio" width="45" height="45" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="50" height="50" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="50" height="50" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
+[<img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="50" height="50" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
 
 </div>
 
@@ -107,9 +107,9 @@ If you want to chat about code, share ideas, or just want to talk tech – hit m
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-github.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="Gmail" width="45" height="45" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/laptop.svg" alt="Portfolio" width="45" height="45" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="50" height="50" style="margin: 0 10px;" />](https://linkedin.com/in/siyam-islam-omi/)
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="50" height="50" style="margin: 0 10px;" />](mailto:seyam.islam020@gmail.com)
+[<img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="50" height="50" style="margin: 0 10px;" />](https://siyam-omi.vercel.app)
 
 </div>
 
