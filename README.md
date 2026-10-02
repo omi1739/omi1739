@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hey+there!;Full+Stack+Developer;Exploring+Software+Engineering" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hey+there!;Full+Stack+Developer;Exploring+Software+Engineering" alt="Typing Animation" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />](https://linkedin.com/in/siyam-islam-omi/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=world&logoColor=white&style=for-the-badge" alt="Portfolio" />](https://siyam-omi.vercel.app)
+[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio" />](https://siyam-omi.vercel.app)
 
 </div>
 
@@ -109,7 +109,7 @@ If you want to chat about code, share ideas, or just want to talk tech – hit m
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />](https://linkedin.com/in/siyam-islam-omi/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />](mailto:seyam.islam020@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=world&logoColor=white&style=for-the-badge" alt="Portfolio" />](https://siyam-omi.vercel.app)
+[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio" />](https://siyam-omi.vercel.app)
 
 </div>
 
